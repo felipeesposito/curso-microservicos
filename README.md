@@ -6,4 +6,5 @@
   
   ''''
   npm install react
+  npm isntall react 2
   '''''
